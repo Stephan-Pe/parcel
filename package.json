@@ -1,0 +1,30 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "Jokegenerator",
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "leaflet": "^1.7.1",
+    "lodash-es": "^4.17.20",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.32.6"
+  },
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "prod": "parcel build ./src/index.html"
+  },
+  "browserslist": [
+    "last 3 and_chr versions",
+    "last 3 chrome versions",
+    "last 3 opera versions",
+    "last 3 ios_saf versions",
+    "last 3 safari versions"
+  ],
+  "author": "Stephan Petersen",
+  "license": "MIT"
+}
