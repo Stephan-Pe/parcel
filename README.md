@@ -1,3 +1,8 @@
-# Parcel^1.12.4, lodash, regenerator-runtime, on Linux Mint, npm
+# Parcel^1.12.4, lodash, React, regenerator-runtime, on Linux Mint with npm
 
-if you're on linux you probably know what to do ;-)
+## super fast and super easy
+
+for setup: download or clone .then
+
+### npm install
+
